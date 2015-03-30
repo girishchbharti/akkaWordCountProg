@@ -1,0 +1,40 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/knoldus/PlayProjects/hello-akka/src/main/scala/LineCount.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/StartProcessMessage$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/Greeting$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloAkka$delayedInit$body.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloAkkaScala$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCountProgram$$anonfun$1.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCountProgram.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/StringMessage.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WhoToGreet.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/FileProcessorActor.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCounterActor.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/FileProcessorActor$$anonfun$receive$3$$anonfun$applyOrElse$2.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/Greeter.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCountProgram$$anonfun$2.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/StringMessage$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/FileProcessorActor$$anonfun$receive$3.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/GreetPrinter$$anonfun$receive$2.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/Greet.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloAkka$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloAkka.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloAkkaScala$delayedInit$body.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/GreetPrinter.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCountProgram$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/StartProcessMessage.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/Greet$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloActor$$anonfun$receive$1.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/LineProcessedMessage.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/Greeter$$anonfun$receive$1.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloAkkaScala.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/Greeting.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WhoToGreet$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/LineProcessedMessage$.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCountProgram$delayedInit$body.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/HelloActor.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$2.class, /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes/FileProcessorActor$$anonfun$receive$3$$anonfun$applyOrElse$1.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/knoldus/PlayProjects/hello-akka/src/main/scala/LineCount.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/knoldus/PlayProjects/hello-akka/src/main/scala/LineCount.scala, /home/knoldus/PlayProjects/hello-akka/src/main/scala/HelloAkkaScala.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/knoldus/PlayProjects/hello-akka/src/main/scala/LineCount.scala, /home/knoldus/PlayProjects/hello-akka/src/main/scala/HelloAkkaScala.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources and 1 Java source to /home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4ac87b2c, interfacing (CompilerInterface) with Scala compiler version 2.11.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-7-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-7-oracle/jre/classes:/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/PlayProjects/hello-akka/target/scala-2.11/classes:/home/knoldus/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar:/home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/home/knoldus/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.9.jar[0m
+[0m[[33mwarn[0m] [0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.347103032 s[0m
+[0m[[0mdebug[0m] [0mAttempting to call javac directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javac.Main not found with appropriate method signature; forking javac instead[0m
+[0m[[0mdebug[0m] [0mForking javac: javac @/tmp/sbt_66eb2b6e/argfile[0m
+[0m[[0mdebug[0m] [0mjavac returned exit code: 0[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.73579681 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.073007474 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
